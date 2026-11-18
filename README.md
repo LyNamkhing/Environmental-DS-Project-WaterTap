@@ -1,7 +1,5 @@
 # Tap Water Quality Monitoring in the MWA Distribution Network (Jan–Aug 2026)
 
-> Environmental Machine Learning Project — Project 1 (Group Project, 20%)
-
 **Team**
 
 | Name | Student ID |
